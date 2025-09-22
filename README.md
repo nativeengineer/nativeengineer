@@ -1,9 +1,5 @@
 # Andrew M.  
 
-**Senior Mobile Engineer | React Native • Flutter • AI & Game Development**  
-📍 Brownwood, Texas, USA  
----
-
 ## 👨‍💻 About Me  
 I’m a Senior Mobile Engineer with **6+ years of experience** building **cross-platform apps and games** using **React Native, Flutter, WebGL, and AI/ML integration**.  
 My work blends **mobile engineering, game development, and AI innovation** — creating apps that are **scalable, performant, and engaging**.  
