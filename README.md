@@ -2,9 +2,6 @@
 
 **Senior Mobile Engineer | React Native • Flutter • AI & Game Development**  
 📍 Brownwood, Texas, USA  
-📧 [andrew.mark0613@gmail.com](mailto:andrew.mark0613@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andrew-mark-mccloskey)  
-
 ---
 
 ## 👨‍💻 About Me  
